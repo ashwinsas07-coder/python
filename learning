@@ -9,3 +9,10 @@ if(meghna=="died"):
     print("yes")
 else:
     print("no") // user input variable meghna
+
+mark=int(input())
+if(mark>35):
+    print("pass")
+else:
+    print("fail") //get input for varaible mark
+
