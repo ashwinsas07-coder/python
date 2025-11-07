@@ -1,1 +1,6 @@
+rcb="win"
+if(rcb=="win"):
+    print("yes cup")
+else:
+    print("no cup") // if esle
 
