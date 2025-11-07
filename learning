@@ -4,3 +4,8 @@ if(rcb=="win"):
 else:
     print("no cup") // if esle
 
+meghna=input("mrghna died or not?")
+if(meghna=="died"):
+    print("yes")
+else:
+    print("no") // user input variable meghna
