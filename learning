@@ -46,4 +46,11 @@ elif(operation=="div"):
 else:
     print("invalid value") // calculator
 
+score=int(input("score eligible:"))
+if(score>=70):
+    name=input("enter your name:")
+    age=input("enter your age:")
+    print("eligible")
+else:
+    print("not eligible") // get input for if
 
