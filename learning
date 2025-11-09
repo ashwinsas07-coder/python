@@ -21,3 +21,13 @@ if(a%5==0 and a%3==0):
     print("divisible by 3and5")
 else:
     print("not divisible by 3and5") // divisble by 3
+
+score=int(input("score:"))
+if(score<35):
+    print("poor student")
+elif(score>35 and score<70):
+    print("average student")
+elif(score>70 and score<100):
+    print("good student")
+else:
+    print("invaild")  // use elif
